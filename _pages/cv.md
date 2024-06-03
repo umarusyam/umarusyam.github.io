@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.CS. in Computer Science, Universitas Lampung, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2022 - Oct 2023: **Teaching Assistant @PACMANN AI**
+  * Duties includes: 
+      * Worked with Lecture to mentor a cohort of more than 200 individuals in a given period, each period being 8 weeks long
+      * Guide students in refining their skills by teaching tools for data visualization and analysis such as Python, SQL, Tableau resulting in a portfolio project per cycle.
+      * Review and quality assure over 30 portfolio projects within a 8-weeks or one cycle.
+      * Maintained a 95% student satisfaction rate obtained through student feedback each assisting session during my tenure, which resulted in repeat business and positive feedback from students.
+  * Tools involved: Python, PostgreSQL, MySQL, and Tableau
 
 * Fall 2015: Research Assistant
   * Github University
@@ -47,17 +48,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======

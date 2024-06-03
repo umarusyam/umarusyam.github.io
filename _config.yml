@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Umar Syam"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Muhammad Umaruddin Syam"
 description              : &description "personal description"
 url                      : https://umarsyam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Data Analyst | Computer Science Fresh Graduate | Proficient in Python, SQL & Data Visualization | Passionate About Turning Data into Insights"
   location         : "Bandar Lampung"
-  employer         : "Universitas Lampung"
+  # employer         : "Universitas Lampung"
   uri              : # URL
   email            : "umaru.syam@gmail.com" 
+  
+  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,21 +59,23 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "umarsyam"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@umarsyam"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "umarusyam"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "umarsyam"
   zhihu            : # URL
+  tableau          : # URL
+
 
 
 # Site Settings
